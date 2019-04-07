@@ -287,7 +287,7 @@ You can also, typically, force-quit out of the game by returning to your termina
 
 ### II.5. Books to Read
 
-![Watch the video](https://d17h27t6h515a5.cloudfront.net/topher/2017/January/588aca59_grokking-deep-learning/grokking-deep-learning.jpg)
+![Watch the video](https://github.com/swoldetsadick/DeepLearning/blob/master/Udacity/Introductions/lesson-2/grokking-deep-learning.jpg?raw=true)
 
 #### Books to read
 We believe that you learn best when you are exposed to multiple perspectives on the same idea. As such, we recommend checking out a few of the books below to get an added perspective on Deep Learning.
