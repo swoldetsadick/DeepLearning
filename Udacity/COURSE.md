@@ -109,9 +109,66 @@ Sometimes, a reviewer might ask you to resubmit a project to meet specifications
 
 ### I.6. Community Guidelines
 
+#### Community Guidelines
+Your experience in the Nanodegree program and community should be an engaging, fulfilling, and positive one. As such, we have outlined the following system for reporting behavior that does not live up to Udacity’s standards, so it can quickly be addressed by our staff.
+
+All reports of suspected violations to the [TOU](https://www.udacity.com/legal/terms-of-service), [Community Code of Conduct](https://www.udacity.com/legal/community-guidelines) or [Honor Code](https://www.udacity.com/legal/community-guidelines) should be submitted to [report@udacity.com](report@udacity.com) and will be reviewed. If you witness or are experiencing any violations of our policies please get in touch with us. Below prohibited actions as set forth on our [Community Code of Conduct](https://www.udacity.com/legal/community-guidelines):
+
+* **Harassment**: Inappropriate, harassing, abusive, discriminatory, derogatory or violent comments or conduct.
+* **Discrimination**: Offensive comments related to gender or gender identity, sexual orientation, race, ethnicity, religion, national origin, disability or disease
+* **Distributing inappropriate content**: Use of sexual, violent, graphic, or derogatory images
+* **Bullying**: Deliberate intimidation, threats of violence or violent language directed against another person
+* **Sexual harassment**: Unwelcome sexual attention
+* **Defamation**: Obscene, fraudulent, indecent, or libelous acts that defame, abuse, harass, discriminate against or threaten others
+* **Plagiarism**: will not cheat on any homework assignment, projects or exams for the Online Courses and, specifically, will not plagiarize materials created by others
+* **Self-injury or Suicide**: We do not encourage community postings in Slack or Forums related to self-injury or suicide. If you or someone you know is exhibiting signs of self-injury or suicide, find help at the [Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) in the U.S. and [Befrienders.org](https://www.befrienders.org/) globally.
+
+When a potential violation is brought to our attention, we will make every effort to investigate the case thoroughly and make a decision that is fair to all parties.
+
+Thank you, The Udacity Team
+
 ### I.7. Pre-requisites
 
+Prerequisites
+We've designed this program such that you only require the following prerequisite knowledge:
+
+* Required
+- - [Intermediate Python experience](https://www.udacity.com/course/programming-foundations-with-python--ud036).
+
+* Optional
+- - [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) and [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) if possible.
+
+That being said, we've included a lot of the detailed mathematics for those of you who do want to go in depth and understand the theory behind these concepts. Such content is optional and shouldn't prevent you from doing the projects. However, it is encouraged for a theoretical understanding.
+
 ### I.8. Deadline Policy
+
+#### Deadline Policy
+This program is project-based, and each project has a suggested deadline to keep students on pace towards graduation. In addition to the suggested project deadlines, you are expected to be in good standing with any requirements internal to your company, if you are sponsored by your employer, including any guidelines on enrollment end dates. To review all the projects order for this Nanodegree program, visit your Program Dashboard [here](https://classroom.udacity.com/nanodegrees/nd101-ent/dashboard/overview).
+
+#### Deadlines FAQ
+**What is a “suggested deadline”?**
+The “suggested deadlines” are flexible deadlines that are meant to guide students towards graduation and there’s no penalty if you miss the project deadlines we’ve laid out for you, as long as you complete all projects before your enrollment ends.
+
+**Do I have to turn my projects in by the dates Udacity has laid out?**
+No. The project deadline dates we’ve laid out are suggestions from our team to help keep you on pace to successfully graduate by the end of the Nanodegree term. The date that you should use as your compass is the enrollment end date determined by your start date.
+
+**What happens if I don’t complete a project by the date Udacity has laid out?**
+Nothing. **There is no penalty for missing a suggested project deadline and you can turn projects in at any time (before or after the suggested deadline), as long as it is by your enrollment end date**. Although the project deadlines you see are soft deadlines, we highly recommend you try your best to keep up with the suggested deadlines to ensure you can get through the content at a reasonable pace and so all your projects don’t pile up a few weeks before your enrollment ends.
+
+**What do I need to do in order to complete the course?**
+Students must complete and pass all the required projects by the **term-end date** in order to successfully graduate from the program. Passing a project means that a Udacity Reviewer has marked your project as “Meets Specifications.” The project review process can take anywhere between a couple of hours to a couple of days, so please plan accordingly as you turn in your projects towards the end of your term. Your projects must be reviewed and passed by the last day of the term. NOTE: you can submit your project as many times as you need to in order to pass.
+
+**Can I graduate from the Nanodegree program without completing and passing all the required projects?**
+No, all required projects must be completed and passed in order to receive a Nandodegree program certificate. However, the course may have a few extra projects or labs (those not mentioned in the Deadlines calendar), which are solely for your benefit and are not required for graduation.
+
+**Do I need to wait until the last day of the term in order to graduate?**
+No. Students can graduate from the program at anytime after they complete and pass all the required projects. Once your final project has been passed by a Udacity Reviewer, you will see the option to begin the graduation process.
+
+**What happens if I don’t turn all my projects and my enrollment ends?**
+You may either:
+
+* Reach out to your Program Manager within your company, if you have one assigned to you.
+* You may submit a question about options to request an extension via Udacity's Help Desk
 
 ### I.9. Welcome to DLNP
 [![Watch the video](https://img.youtube.com/vi/7ZO66e1uTCg/0.jpg)](https://youtu.be/7ZO66e1uTCg)
