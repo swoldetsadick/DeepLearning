@@ -211,7 +211,7 @@ pip install moviepy
 python -c "import imageio; imageio.plugins.ffmpeg.download()"
 ```
 
-**Note**: If you get an error on the last command that ends in RuntimeError: imageio.ffmpeg.download() has been deprecated. Use 'pip install imageio-ffmpeg' instead.' just run the command pip install imageio-ffmpeg. You may need to restart the terminal and reactivate the environment for the command to complete.
+> **Note**: If you get an error on the last command that ends in RuntimeError: imageio.ffmpeg.download() has been deprecated. Use 'pip install imageio-ffmpeg' instead.' just run the command pip install imageio-ffmpeg. You may need to restart the terminal and reactivate the environment for the command to complete.
 
 Let’s take a quick look at what these commands do. The first line in both sets of instructions, creates a new environment with Python 3. This environment will hold all the packages you need for the style transfer code. The next line enters the environment. Next, we install TensorFlow, SciPy, Pillow (which is an image processing library), and moviepy. The last line here installs ffmpeg, an application for converting images and videos.
 
@@ -227,13 +227,13 @@ Finally, in your terminal, navigate to the fast-style-transfer folder and enter
 python evaluate.py --checkpoint ./rain-princess.ckpt --in-path <path_to_input_file> --out-path ./output_image.jpg
 ```
 
-**Note**: Your checkpoint file might be named `rain_princess.ckpt`, notice the underscore, it's not the dash from above.
+> **Note**: Your checkpoint file might be named `rain_princess.ckpt`, notice the underscore, it's not the dash from above.
 
 You can get more checkpoint files at the bottom of this page. Try them all!
 
 Feel free to train the network on your own images, you can find instructions in the repository (although it does take some powerful hardware).
 
-**Note**: Be careful with the size of the input image. The style transfer can take quite a while to run on larger images.
+> **Note**: Be careful with the size of the input image. The style transfer can take quite a while to run on larger images.
 
 ![went](https://github.com/swoldetsadick/DeepLearning/blob/master/Udacity/Introductions/lesson-2/Unbenannt.PNG?raw=true)
 
