@@ -12,6 +12,23 @@
 
 ### I.4. Program Structure
 
+#### Program Structure
+The Deep Learning Nanodegree program is divided into five parts, giving you a thorough understanding of deep learning, and covering some of the major topics.
+
+#### Introduction
+The first part is an introduction to the program as well as a couple lessons covering tools you'll be using. You'll also get a chance to apply some deep learning models to do cool things like transferring the style of artwork to another image.
+
+We’ll start off with a simple introduction to linear regression and machine learning. This will give you the vocabulary you need to understand recent advancements, and make clear where deep learning fits into the broader picture of Machine Learning techniques.
+
+#### Neural Networks
+In this part, you'll learn how to build a simple neural network from scratch using python. We'll cover the algorithms used to train networks such as gradient descent and backpropagation.
+
+The **first project** is also available this week. In this project, you'll predict bike ridership using a simple neural network.
+
+[Watch the video](https://img.youtube.com/vi/R6LKEXe2hPc/0.jpg)
+
+
+
 ### I.5. Udacity Support
 
 ### I.6. Community Guidelines
