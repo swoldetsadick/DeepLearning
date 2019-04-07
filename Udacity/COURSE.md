@@ -5,10 +5,10 @@
 [![Watch the video](https://img.youtube.com/vi/It368pDgyZE/0.jpg)](https://youtu.be/It368pDgyZE)
 
 ### I.2. Projects you will build
-[![Watch the video](https://img.youtube.com/vi/sFCV9nIssko/5.jpg)](https://youtu.be/sFCV9nIssko)
+[![Watch the video](https://img.youtube.com/vi/sFCV9nIssko/0.jpg)](https://youtu.be/sFCV9nIssko)
 
 ### I.3. Meet your instructors
-[![Watch the video](https://img.youtube.com/vi/R6LKEXe2hPc/5.jpg)](https://youtu.be/R6LKEXe2hPc)
+[![Watch the video](https://img.youtube.com/vi/R6LKEXe2hPc/0.jpg)](https://youtu.be/R6LKEXe2hPc)
 
 ### I.4. Program Structure
 
@@ -25,7 +25,7 @@ In this part, you'll learn how to build a simple neural network from scratch usi
 
 The **first project** is also available this week. In this project, you'll predict bike ridership using a simple neural network.
 
-[Watch the video](https://github.com/swoldetsadick/DeepLearning/blob/master/Udacity/Introductions/lesson-1/convolutional-neural-networks-2.jpg?raw=true)
+![Watch the video](https://github.com/swoldetsadick/DeepLearning/blob/master/Udacity/Introductions/lesson-1/convolutional-neural-networks-2.jpg?raw=true)
 
 
 
